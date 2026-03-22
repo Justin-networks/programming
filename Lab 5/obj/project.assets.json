@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester 1 2026 Bachelors\\Advanced Programming\\Week 5 - OOP I\\Week 5 Lab\\Lab 5\\Lab 5.csproj",
+      "projectUniqueName": "C:\\Students\\1834324\\Advanced Programming\\lab5\\programming\\Lab 5\\Lab 5.csproj",
       "projectName": "Lab 5",
-      "projectPath": "D:\\Semester 1 2026 Bachelors\\Advanced Programming\\Week 5 - OOP I\\Week 5 Lab\\Lab 5\\Lab 5.csproj",
+      "projectPath": "C:\\Students\\1834324\\Advanced Programming\\lab5\\programming\\Lab 5\\Lab 5.csproj",
       "packagesPath": "C:\\Users\\1834324\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester 1 2026 Bachelors\\Advanced Programming\\Week 5 - OOP I\\Week 5 Lab\\Lab 5\\obj\\",
+      "outputPath": "C:\\Students\\1834324\\Advanced Programming\\lab5\\programming\\Lab 5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1834324\\AppData\\Roaming\\NuGet\\NuGet.Config"
